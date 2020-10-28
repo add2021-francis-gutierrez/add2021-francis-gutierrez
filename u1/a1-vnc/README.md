@@ -3,7 +3,6 @@
 
 Conectar desde el Windows Master hacia el Windows Slave.
 
-## Conectar desde el Windows Master hacia el Windows Slave.
 
 ![](Imagenes/1.png)
 
